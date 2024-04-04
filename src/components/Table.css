@@ -13,13 +13,27 @@
     text-align: center
 }
 .s-c{
-    /* color: yellow; */
+
     border:1px solid whitesmoke;
     text-align: center;
 }
 .t-c
 {
-    /* color: yellowgreen; */
     border:1px solid whitesmoke;
     text-align: center
 }
+
+
+  
+  .photos {
+    margin-left: 20px; 
+    margin-top: 20px; 
+  }
+  
+  @media (max-width: 768px) {
+    .photos {
+      margin-left: 0; 
+      margin-top: 20px;
+    }
+  }
+  
