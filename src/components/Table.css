@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    background-color: rgb(186, 186, 14);
+    border: 1px solid white;
+}
+.tabl
+{
+    border:1px solid whitesmoke;
+}
+.main
+{
+    border:1px solid whitesmoke;
+    text-align: center
+}
+.s-c{
+    /* color: yellow; */
+    border:1px solid whitesmoke;
+    text-align: center;
+}
+.t-c
+{
+    /* color: yellowgreen; */
+    border:1px solid whitesmoke;
+    text-align: center
+}
