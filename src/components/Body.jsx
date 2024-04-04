@@ -3,7 +3,7 @@ import React from 'react';
 export default function Body() {
   return (
     <div className="">
-      <div className="p-28 bg-gradient-to-tr from-blue-500 to-green-300 rounded-lg">
+      <div className="p-28 bg-gradient-to-tr from-blue-500 to-green-300">
         <div className="">
           <div className="rounded-lg p-2 flex flex-col bg-gradient-to-tr from-blue-700 to-red-500">
             <div className="font-extrabold text-3xl text-center p-2 text-white">Welcome to ICHLL 2024</div>
@@ -96,7 +96,7 @@ export default function Body() {
         </footer>
       </div>
       <div className="bg-slate text-center">
-        <h1 className="font-bold w-full p-4">Copyright © 2024 @ ICHLL. All Rights Reserved. Website Designed & Maintained By: Department of Computer Science and Engineering, SECE.</h1>
+        <h1 className="font-bold w-full p-4">Copyright © 2024 @ ICHLL. All Rights Reserved. Website Designed & Maintained By: Department of CSE & ENG, SECE.</h1>
       </div>
     </div>
   );

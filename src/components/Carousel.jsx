@@ -5,21 +5,33 @@ import { BsChevronCompactLeft, BsChevronCompactRight } from 'react-icons/bs';
 const CarouselComp = () => {
     const slides = [
         {
-          url: 'https://secureservercdn.net/198.71.233.206/o32.c30.myftpupload.com/wp-content/uploads/2021/07/iStock-Online-Language-Learning.jpg'
+          url:'https://www.unite.ai/wp-content/uploads/2022/03/ai-education-tools.png'
         },
         {
-          url: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80',
+          url:'https://www.unite.ai/wp-content/uploads/2022/03/ai-education-tools.png'
         },
         {
-          url: 'https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80',
+          url: 'https://wallpapers.com/images/hd/english-2103-x-900-wallpaper-l27103xva25mpf08.jpg'
+        },
+        {
+          url: 'https://pbs.twimg.com/media/GIVfHKObMAAvf50.jpg:large'
+        },
+        {
+          url: 'https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHwwfHx8MA%3D%3D',
+        },
+        {
+          url: 'https://mediatheory.net/wp-content/uploads/2023/10/cultural-hybridity.webp',
         },
     
         {
-          url: 'https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2253&q=80',
+          url: 'https://icaccs.sece.ac.in/images/sece2.jpg',
         },
         {
-          url: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80',
+          url: 'https://icaccs.sece.ac.in/images/sece3.jpg',
         },
+        {
+          url:'https://icaccs.sece.ac.in/images/sece4.jpg'
+        }
       ];
     
       const [currentIndex, setCurrentIndex] = useState(0);

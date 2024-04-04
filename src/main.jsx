@@ -15,6 +15,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Menu />
     <Carousel/>
     <Table />
+    <div>
+      <br />
+      <br />
+    </div>
     <Body />
   </React.StrictMode>,
 )

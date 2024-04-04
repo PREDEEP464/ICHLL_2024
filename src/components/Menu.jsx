@@ -11,10 +11,6 @@ function Header() {
             icon: HiHome
         },
         {
-            name: 'HISTORY',
-            icon: HiMagnifyingGlass
-        },
-        {
             name: 'COMMITTEE',
             icon: HiPencil
         },
