@@ -7,7 +7,7 @@ export default function Body() {
         <div className="">
           <div className="rounded-lg p-2 flex flex-col bg-gradient-to-tr from-blue-700 to-red-500">
             <div className="font-extrabold text-3xl text-center p-2 text-white">Welcome to ICHLL 2024</div>
-            <div className="font-semibold p-8 text-white">The 2024 1st International Conference on Hybridity in Language Learning (ICHLL). The conference aims to showcase the technical excellence of emerging technocrats, research scholars, academia representatives, and industry professionals, bringing together globally renowned research experts.</div>
+            <div className="font-semibold p-8 text-white">The International Conference on Hybridity in Language Learning explores how hybrid models strengthen language acquisition and teaching efficacy by integrating classroom teaching with online resources, multimedia, and immersive experiences. The conference explores the possibilities of hybrid approaches to advance knowledge and practice in language teaching. Through innovation, teamwork, and knowledge sharing among educators, researchers, and practitioners, it hopes to improve pedagogical efficacy and language learning results in various settings. </div>
           </div>
           <div className=" rounded-lg p-2 flex flex-col bg-gradient-to-tr from-blue-700 to-blue-950" style={{ marginTop: '10px' }}>
             <div className="font-extrabold text-3xl text-center p-2 text-white">Scope of the Conference</div>
