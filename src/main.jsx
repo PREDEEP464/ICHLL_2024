@@ -7,10 +7,12 @@ import './index.css'
 import Carousel from './components/Carousel.jsx'
 import Top from './components/Top.jsx'
 import Table from './components/Table.jsx'
+import HeaderPic from './components/HeaderPic.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Top />
+    <HeaderPic />
     <Header />
     <Menu />
     <Carousel/>
